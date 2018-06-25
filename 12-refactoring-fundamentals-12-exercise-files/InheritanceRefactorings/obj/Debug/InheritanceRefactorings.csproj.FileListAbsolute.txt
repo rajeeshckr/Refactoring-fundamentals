@@ -1,0 +1,5 @@
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\Inheritance Refactorings\InheritanceRefactorings\obj\Debug\InheritanceRefactorings.csprojResolveAssemblyReference.cache
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\Inheritance Refactorings\InheritanceRefactorings\bin\Debug\InheritanceRefactorings.dll
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\Inheritance Refactorings\InheritanceRefactorings\bin\Debug\InheritanceRefactorings.pdb
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\Inheritance Refactorings\InheritanceRefactorings\obj\Debug\InheritanceRefactorings.dll
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\Inheritance Refactorings\InheritanceRefactorings\obj\Debug\InheritanceRefactorings.pdb

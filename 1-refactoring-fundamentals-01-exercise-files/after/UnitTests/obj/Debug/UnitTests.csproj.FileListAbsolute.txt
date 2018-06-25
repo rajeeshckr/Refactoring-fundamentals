@@ -1,0 +1,9 @@
+D:\Dev\PluralsightCourses\021 - Refactoring Fundamentals\Introducing Refactoring\after\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Dev\PluralsightCourses\021 - Refactoring Fundamentals\Introducing Refactoring\after\UnitTests\bin\Debug\UnitTests.dll
+D:\Dev\PluralsightCourses\021 - Refactoring Fundamentals\Introducing Refactoring\after\UnitTests\bin\Debug\UnitTests.pdb
+D:\Dev\PluralsightCourses\021 - Refactoring Fundamentals\Introducing Refactoring\after\UnitTests\bin\Debug\HomeHeatingCalc.exe
+D:\Dev\PluralsightCourses\021 - Refactoring Fundamentals\Introducing Refactoring\after\UnitTests\bin\Debug\nunit.framework.dll
+D:\Dev\PluralsightCourses\021 - Refactoring Fundamentals\Introducing Refactoring\after\UnitTests\bin\Debug\HomeHeatingCalc.pdb
+D:\Dev\PluralsightCourses\021 - Refactoring Fundamentals\Introducing Refactoring\after\UnitTests\bin\Debug\nunit.framework.xml
+D:\Dev\PluralsightCourses\021 - Refactoring Fundamentals\Introducing Refactoring\after\UnitTests\obj\Debug\UnitTests.dll
+D:\Dev\PluralsightCourses\021 - Refactoring Fundamentals\Introducing Refactoring\after\UnitTests\obj\Debug\UnitTests.pdb

@@ -1,0 +1,5 @@
+C:\Dev\bitbucket.org\GildedRoseKata\src\GildedRose.UI\bin\Debug\GildedRose.UI.exe.config
+C:\Dev\bitbucket.org\GildedRoseKata\src\GildedRose.UI\bin\Debug\GildedRose.UI.exe
+C:\Dev\bitbucket.org\GildedRoseKata\src\GildedRose.UI\bin\Debug\GildedRose.UI.pdb
+C:\Dev\bitbucket.org\GildedRoseKata\src\GildedRose.UI\obj\Debug\GildedRose.UI.exe
+C:\Dev\bitbucket.org\GildedRoseKata\src\GildedRose.UI\obj\Debug\GildedRose.UI.pdb

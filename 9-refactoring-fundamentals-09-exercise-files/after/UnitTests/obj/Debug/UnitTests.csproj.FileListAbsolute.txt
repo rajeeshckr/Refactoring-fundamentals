@@ -1,0 +1,9 @@
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\Method Refactorings\after\UnitTests\bin\Debug\UnitTests.dll
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\Method Refactorings\after\UnitTests\bin\Debug\UnitTests.pdb
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\Method Refactorings\after\UnitTests\bin\Debug\HomeHeatingCalc.exe
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\Method Refactorings\after\UnitTests\bin\Debug\nunit.framework.dll
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\Method Refactorings\after\UnitTests\bin\Debug\HomeHeatingCalc.pdb
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\Method Refactorings\after\UnitTests\bin\Debug\nunit.framework.xml
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\Method Refactorings\after\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\Method Refactorings\after\UnitTests\obj\Debug\UnitTests.dll
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\Method Refactorings\after\UnitTests\obj\Debug\UnitTests.pdb

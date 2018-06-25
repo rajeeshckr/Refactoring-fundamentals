@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{31317200-B522-49B3-906B-47A526EB1F1B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>InheritanceRefactorings</RootNamespace>
+    <AssemblyName>InheritanceRefactorings</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CollapseHierarchy\Bad\Employee.cs" />
+    <Compile Include="CollapseHierarchy\Good\Employee.cs" />
+    <Compile Include="PushDownMethod\Bad\CustomWebControl.cs" />
+    <Compile Include="PushDownMethod\Good\CustomWebControl.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PullUpMethod\Bad\CustomWebControl.cs" />
+    <Compile Include="PullUpMethod\Good\CustomWebControl.cs" />
+    <Compile Include="ReplaceConditionalWithPolymorphism\Bad\Account.cs" />
+    <Compile Include="ReplaceConditionalWithPolymorphism\Better\Account.cs" />
+    <Compile Include="ReplaceConditionalWithPolymorphism\Good\Account.cs" />
+    <Compile Include="ReplaceDelegationWithInheritance\Bad\EmployeeCollection.cs" />
+    <Compile Include="ReplaceDelegationWithInheritance\Employee.cs" />
+    <Compile Include="ReplaceDelegationWithInheritance\Good\EmployeeCollection.cs" />
+    <Compile Include="ReplaceInheritanceWithDelegation\Bad\Company.cs" />
+    <Compile Include="ReplaceInheritanceWithDelegation\Employee.cs" />
+    <Compile Include="ReplaceInheritanceWithDelegation\Good\Company.cs" />
+    <Compile Include="ReplaceTypeCodeWithClass\Bad\Person.cs" />
+    <Compile Include="ReplaceTypeCodeWithClass\Better\Person.cs" />
+    <Compile Include="ReplaceTypeCodeWithClass\Good\Person.cs" />
+    <Compile Include="ReplaceTypeCodeWithSubclasses\Bad\Account.cs" />
+    <Compile Include="ReplaceTypeCodeWithSubclasses\Good\Account.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

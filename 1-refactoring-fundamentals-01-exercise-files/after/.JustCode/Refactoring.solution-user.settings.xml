@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="99b96279-2472-436b-910c-d051765c414e">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings>
+      <FilePath>
+        <Path>D:\Dev\Steve\PluralsightCourses\021 - Refactoring Fundamentals\Introducing Refactoring\after\UnitTests\Properties\AssemblyInfo.cs</Path>
+        <ProjectFullName>D:\Dev\Steve\PluralsightCourses\021 - Refactoring Fundamentals\Introducing Refactoring\after\UnitTests\UnitTests.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>1</Column>
+          <Text>This using directive is not required</Text>
+          <Line>2</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Dev\Steve\PluralsightCourses\021 - Refactoring Fundamentals\Introducing Refactoring\after\HomeHeatingCalc\Properties\AssemblyInfo.cs</Path>
+        <ProjectFullName>D:\Dev\Steve\PluralsightCourses\021 - Refactoring Fundamentals\Introducing Refactoring\after\HomeHeatingCalc\HomeHeatingCalc.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>1</Column>
+          <Text>This using directive is not required</Text>
+          <Line>2</Line>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

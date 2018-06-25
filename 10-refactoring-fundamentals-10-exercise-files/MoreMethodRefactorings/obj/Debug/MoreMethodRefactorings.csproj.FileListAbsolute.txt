@@ -1,0 +1,7 @@
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\More Method Refactorings\MoreMethodRefactorings\obj\Debug\MoreMethodRefactorings.csprojResolveAssemblyReference.cache
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\More Method Refactorings\MoreMethodRefactorings\bin\Debug\MoreMethodRefactorings.dll
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\More Method Refactorings\MoreMethodRefactorings\bin\Debug\MoreMethodRefactorings.pdb
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\More Method Refactorings\MoreMethodRefactorings\bin\Debug\nunit.framework.dll
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\More Method Refactorings\MoreMethodRefactorings\bin\Debug\nunit.framework.xml
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\More Method Refactorings\MoreMethodRefactorings\obj\Debug\MoreMethodRefactorings.dll
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\More Method Refactorings\MoreMethodRefactorings\obj\Debug\MoreMethodRefactorings.pdb

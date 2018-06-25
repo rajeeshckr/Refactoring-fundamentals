@@ -1,0 +1,6 @@
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\Method Refactorings\after\HomeHeatingCalc\bin\Debug\HomeHeatingCalc.exe.config
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\Method Refactorings\after\HomeHeatingCalc\bin\Debug\HomeHeatingCalc.exe
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\Method Refactorings\after\HomeHeatingCalc\bin\Debug\HomeHeatingCalc.pdb
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\Method Refactorings\after\HomeHeatingCalc\obj\Debug\HomeHeatingCalc.csprojResolveAssemblyReference.cache
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\Method Refactorings\after\HomeHeatingCalc\obj\Debug\HomeHeatingCalc.exe
+C:\Dev\bitbucket.org\PluralsightCourses\021 - Refactoring Fundamentals\Method Refactorings\after\HomeHeatingCalc\obj\Debug\HomeHeatingCalc.pdb
